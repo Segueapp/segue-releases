@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "ko_fi_url": "https://ko-fi.com/segueapp",
-  "notes": "\u2022 Apple Music support\n\u2022 Speech sensitivity slider for ducking\n\u2022 Modifier-combo keybinds (e.g. Ctrl+Shift+P)\n\u2022 Smoother rebinding: conflict warnings, controller confirm/back, PlayStation button icons\n\u2022 Faster volume hold\n\u2022 Fixes: startup crash, device-switch bind loss",
-  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.1.0/Segue_Setup_1.1.0.exe",
-  "headline": "Apple Music, a ducking sensitivity slider, and smoother controls.",
+  "notes": "\u2022 Fixed: the right half of the window not responding to clicks on scaled monitors (the big one)\n\u2022 Update button now downloads directly, no extra steps\n\u2022 More reliable update checks\n\nIf the Get it button does not respond, download directly here: https://github.com/Segueapp/segue-releases/raw/main/releases/latest/Segue_Setup.exe",
+  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.1.1/Segue_Setup_1.1.1.exe",
+  "headline": "Important fix: clicks on scaled displays",
   "cta_label": "",
   "changelog_url": "",
   "color": "",
