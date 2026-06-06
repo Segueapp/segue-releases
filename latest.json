@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "ko_fi_url": "https://ko-fi.com/segueapp",
-  "notes": "\u2022 Fixed: the right half of the window not responding to clicks on scaled monitors (the big one)\n\u2022 Update button now downloads directly, no extra steps\n\u2022 More reliable update checks\n\nIf the Get it button does not respond, download directly here: https://github.com/Segueapp/segue-releases/raw/main/releases/latest/Segue_Setup.exe",
-  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.1.1/Segue_Setup_1.1.1.exe",
-  "headline": "Important fix: clicks on scaled displays",
-  "cta_label": "",
+  "notes": "<b>First of all, thanks for over <span style='color:#FF7A1A'>1.4K</span> downloads. The support has been unreal.</b><br><br><b>Play Anything (1.2.0)</b><br>Segue now mixes from way more than Spotify.<br><br>• <b>Local files</b>: VLC, Media Player, foobar and more. Full track info and skip on the new Media Player.<br>• <b>Every browser</b>: Firefox, Chrome, Edge, Opera, Brave and friends, each shown with its own logo.<br>• <b>Close to tray</b>: the X keeps Segue running in the background.<br>• <b>Overlay, your way</b>: drag it anywhere, 9 positions, always-on and cover-only modes.<br>• <b>Smarter controls</b>: pause and skip only ever hit your chosen source, never the wrong app.<br>• <b>Check for updates</b> right from the title bar.<br>• Improved sim wheel support, plus stability fixes.",
+  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.2.0/Segue_Setup_1.2.0.exe",
+  "headline": "🚀 Play Anything. Local files, every browser, and more.",
+  "cta_label": "Update",
   "changelog_url": "",
-  "color": "",
-  "image_url": ""
+  "color": "#5B6CFF",
+  "image_url": "https://github.com/Segueapp/segue-releases/raw/main/images/1.2.0/wn_overlay.png"
 }
