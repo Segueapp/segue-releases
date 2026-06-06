@@ -1,6 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "ko_fi_url": "https://ko-fi.com/segueapp",
-  "notes": "Apple Music support, D-pad skip works with Forza closed, collapsible Mixer Advanced, key-cap rebinding + reset, hold-to-repeat volume, and fixes.",
-  "installer_url": ""
+  "notes": "\u2022 Apple Music support\n\u2022 Speech sensitivity slider for ducking\n\u2022 Modifier-combo keybinds (e.g. Ctrl+Shift+P)\n\u2022 Smoother rebinding: conflict warnings, controller confirm/back, PlayStation button icons\n\u2022 Faster volume hold\n\u2022 Fixes: startup crash, device-switch bind loss",
+  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.1.0/Segue_Setup_1.1.0.exe",
+  "headline": "Apple Music, a ducking sensitivity slider, and smoother controls.",
+  "cta_label": "",
+  "changelog_url": "",
+  "color": "",
+  "image_url": ""
 }
