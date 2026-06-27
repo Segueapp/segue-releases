@@ -1,12 +1,12 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.5",
   "ko_fi_url": "https://ko-fi.com/segueapp",
-  "notes": "[[title:What's new]]\nSegue just crossed <span style='color:#ffffff;font-weight:bold'>10,000 downloads</span>. Honestly insane. Thank you.\nI appreciate every single one of you that donates or sends kind words. I see every single one. 🫶\n[[new]] <span style='color:#ffffff;font-weight:bold'>In-app updater.</span> A lot of you asked for this. Segue can now update itself right inside the app, seamlessly. No reinstall needed. This is the last download you grab by hand: from here Segue keeps itself up to date.\n[[img:https://github.com/Segueapp/segue-releases/raw/main/images/1.4.3/Downloader.png]]\n[[improved]] <span style='color:#ffffff;font-weight:bold'>Code signed, finally.</span> After a lot of back and forth with different signing providers, Segue is now properly code-signed. On the latest version the trojan warnings should disappear, and the SmartScreen and Defender warnings should fade away soon too.\n[[img:https://github.com/Segueapp/segue-releases/raw/main/images/1.4.3/code_signed_sig_big.png]]\n<span style='color:#ffffff;font-weight:bold'>More on the way.</span> I have been working on a ton of good stuff. Stay tuned.",
-  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.4.3/Segue_Setup_1.4.3.exe",
-  "sha256": "964d2782025237c6295ac0e730eb76e7d23cbddcd9a271c80f906ec0a4ffc4fc",
-  "headline": "Code signed + in-app updates",
+  "notes": "[[title:What's new]]\n[[new]] <span style='color:#ffffff;font-weight:bold'>In-app updater.</span> Segue now updates itself right inside the app, no manual downloads.\n[[improved]] <span style='color:#ffffff;font-weight:bold'>Overlay font.</span> The overlay now always shows Segue's proper font, even if it isn't installed on your system. Some setups were falling back to a plain system one.\n[[fixed]] <span style='color:#ffffff;font-weight:bold'>Xbox menu pause.</span> Menus no longer pause your music by mistake. The in-menu lock now blocks pause too, not just track skipping.\nMore on the way. 🫶",
+  "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.4.5/Segue_Setup_1.4.5.exe",
+  "sha256": "12df5bd1409815eee5a75c428434847ecf4e267e9f76fbf1f0fce55db34b7318",
+  "headline": "Overlay font + Xbox menu fixes",
   "cta_label": "",
   "changelog_url": "",
   "color": "#0269C8",
-  "image_url": "https://github.com/Segueapp/segue-releases/raw/main/images/1.4.3/code_sign_hero.jpg"
+  "image_url": ""
 }
