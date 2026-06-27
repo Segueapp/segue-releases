@@ -1,7 +1,7 @@
 {
   "version": "1.4.5",
   "ko_fi_url": "https://ko-fi.com/segueapp",
-  "notes": "[[title:What's new]]\n[[new]] <span style='color:#ffffff;font-weight:bold'>In-app updater.</span> Segue now updates itself right inside the app, no manual downloads.\n[[improved]] <span style='color:#ffffff;font-weight:bold'>Overlay font.</span> The overlay now always shows Segue's proper font, even if it isn't installed on your system. Some setups were falling back to a plain system one.\n[[fixed]] <span style='color:#ffffff;font-weight:bold'>Xbox menu pause.</span> Menus no longer pause your music by mistake. The in-menu lock now blocks pause too, not just track skipping.\nMore on the way. 🫶",
+  "notes": "[[title:What's new]]\n[[new]] <span style='color:#ffffff;font-weight:bold'>In-app updater.</span> Segue now updates itself right inside the app, no manual downloads.\n[[improved]] <span style='color:#ffffff;font-weight:bold'>Overlay font.</span> The overlay now always shows Segue's proper font, even if it isn't installed on your system. Some setups were falling back to a plain system one.\n[[improved]] <span style='color:#ffffff;font-weight:bold'>Xbox menu pause.</span> Menus no longer pause your music by mistake. The in-menu lock now blocks pause too, not just track skipping.\nMore on the way. 🫶",
   "installer_url": "https://github.com/Segueapp/segue-releases/raw/main/releases/1.4.5/Segue_Setup_1.4.5.exe",
   "sha256": "12df5bd1409815eee5a75c428434847ecf4e267e9f76fbf1f0fce55db34b7318",
   "headline": "Overlay font + Xbox menu fixes",
